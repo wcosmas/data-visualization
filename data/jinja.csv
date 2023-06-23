@@ -1,0 +1,12 @@
+Source Name,Village,Parish,Sub county ,County,District,GPS Location,Lab Identifier Code,Parameter,Electrical Conductivity,pH ,Turbidity,Color (Apparent),Total Alkalinity ,Total hardness ,Calcium Hardardness ,Flouride,Nitrites ,Sulphate ,Ammonium-N ,Chloride ,Phosphates-P ,Nitrates-N ,Sodium ,Potassium ,Iron ,Free Chlorine
+Kilikwani tap,Bugembe,Bugembe T/C,Mafubira division,Jinja City,Jinja,E526362 N51478,E23/00103,Results,103,6.9,2.34,22,43,33,18,0.26236,0.01509,4.10009,0.16075,5.01257,0.03779,0.3225,8.9,3,0.27,0.02
+Ndiba Roseline tap,Masese,,Walukuba division,Jinja City,jinja,E526349 N49702,E23/00104,Results,111,6.7,2.23,20,48,35,19,0.22605,0.00318,3.72661,<0.002,4.58644,0.09726,2.49162,9.2,3.2,0.16,0
+Musisi bad man tap,Masese,,Walukuba division,Jinja City,Jinja,E526921 N48543,E23/00105,Results,101,6.8,2.92,15,41,27,19,0.25573,0.0076,4.27461,0.03963,4.59145,0.05778,0.51466,8.5,2.9,0.34,0.05
+Jinja college Borehole,Rubaga hill,Rubaga,Kimaka-Mpumudde,Jinja City,jinja,E523658 N49584,E23/00109,Results,648,6.6,2.12,4,175,310,125,0.6697,0.00678,69.27158,<0.002,51.08993,0.99905,6.686,11,4,0.07,
+Mpumudde mosque B/H,Mpumudde,Mpumudde,Mpumudde,Jinja City,Jinja,E523831 N51559,E22/00110,Results,1041,6.8,3.48,27,320,430,230,0.681,0.08142,62.21922,0.02197,68.54926,0.05519,17.75154,48,13,2.16,
+Mawuta B/H C046,Mawuta,Mafubira,Mafubira division,Jinja City,Jinja,E524050 N54463,E23/00111,Results,1393,6.9,6.25,75,350,730,400,0.31554,0.01351,233.9129,<0.002,147.8959,0.11509,0.31634,16,5.2,0.29,
+Nsube B/H,Nsube,Mafubira,Mafubira division,Jinja City,Jinja,E524435 N61008,E23/00112,Results,492,6.5,1.91,1,230,220,105,0.26735,0.00658,21.39238,<0.002,7.99265,0.04659,6.69617,20,4,0.31,
+Mutai S/W,Mutai,Kagoma,Buwenge,jinja,Jinja,E524220 N61707,E23/00113,Results,292,6,1.85,1,91,120,60,0.27796,0.00355,27.93701,0.04345,8.03672,0.11088,6.14984,17,1.4,0.15,
+Mutai police post tap,Mutai,Kagoma,Buwenge,Jinja,Jinja,E523590 N62539,E23/00114,Results,106,6.7,2.11,11,41,36,16,0.29205,0.00256,4.95072,0.02983,5.91122,0.10657,0.51079,9.3,3.1,0.13,0
+Kagoma protected spring,Kagoma,Kagoma,Buwenge,Jinja,Jinja,E522300 N65456,E23/00115,Results,198,5.4,2.37,6,38,62,38,0.05172,0.00502,14.85099,0.00394,13.07676,0.02826,7.59498,9.2,5.1,0.24,
+AGM Tap,Nalufenya,Mpumudde,Mpumudde division,Jinja City,Jinja,E521619 N48543,E23/00117,Results,104,6.8,2.43,22,46,33,20,0.28131,0.03649,4.89396,0.11817,5.31612,0.02851,0.22467,8.9,3.1,0.24,0.04

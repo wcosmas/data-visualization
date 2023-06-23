@@ -1,0 +1,15 @@
+Source Name,Village,Parish,Sub county ,District,GPS Location,Lab Identifier Code,Parameter,Electrical Conductivity,pH ,Turbidity,Color (Apparent),Total Alkalinity ,Total hardness ,Calcium Hardardness ,Flouride,Nitrites ,Sulphate ,Ammonium-N ,Chloride ,Phosphates-P ,Nitrates-N ,Sodium ,Potassium 
+Vuumba Community borehole,Vuumba,Nakigole,Kalagala,Luweero,36N 0.605723 ,E22/09382,Results,286,6.57,1.7,1,46,86.2,44.2,0.41131,18.3249,14.03802,0.00496,15.10519,0.04848,0.46958,0,0
+Ndeeba Masjid Noor shallow well,Ndeeba Kakoni,Nakigole,Kalagala,Luweero,36N 0.614298,E22/09383,Results,169.9,6.45,1.6,13,51,41.2,21.2,0.36076,1.55855,20.59539,0.00263,4.62426,0.08792,1.03224,0,0
+Bulami community borehole,Bulami,Kabulanaka,Zirobwe S/C,Luweero,36N 0.632672,E22/09384,Results,108.5,6.64,1.9,14,37,33.4,16.4,0.20522,0.67499,0.80816,0.02196,3.84813,0.03488,0.33294,0,0
+Kajjawo community borehole,Kajjawo,,Zirobwe S/C,Luweero,36N 0.626347,E22/09385,Results,187.8,5.27,1.4,8,13,29.8,15.2,0.09463,14.52271,24.96521,0.00739,10.01999,0.14477,0.17133,0,0
+Zirobwe Masjid Taqwa shallow well,Zirobwe,Zirobwe,Zirobwe T/C,Luweero,36N 0.681463,E22/09387,Results,1220,6.5,1.7,19,150,357.2,165.8,0.42447,173.8706,43.43394,2.30315,37.79263,0.1207,0.3615,0,0
+Namakofu shallow well,Namakofu,Nambi,Zirobwe S/C,Luweero,36N 0.672650,E22/09390,Results,331,6.74,2.3,12,100,82.6,51.8,0.77834,8.29878,36.57894,0.00639,6.15709,0.0675,0.55491,0,0
+NWSC Zirobwe resovior,Namawojja,,Zirobwe S/C,Luweero,36N 0.665295,E22/09391,Results,446,6.48,1.7,1,130,144.4,77.2,0.73177,27.63186,39.77444,0.00258,8.68669,0.06563,0.35988,0.15,0.14
+NWSC Zirobwe PSP,Tawalulwa,Nambi,Zirobwe S/C,Luweero,36N 0.663028,E22/09392,Results,302,6.38,1.9,7,110,102,46.6,0.45675,9.85516,27.66709,0.00194,3.21673,0.07008,0.38789,0.07,0.02
+Nampunge community borehole,Nampunge,Nambi,Zirobwe S/C,Luweero,36N 0.661952,E22/09393,Results,172.1,5.73,2,<0.2432,43,38.4,17.8,0.20116,4.17567,14.80111,0.00281,4.49735,0.09176,0.21943,0,0
+Lutete community borehole,Lutete,Kyampisi,Bamunanika,Luweero,36N 0.666747,E22/09394,Results,291,5.17,1.2,<0.2432,24,71.2,32.8,0.15168,45.38383,16.03626,0.00281,9.47204,0.22752,0.38024,0,0
+Kaliro katono community borehole - DWD 17219,Kaliro katono,Kiteme,Bamunanika,Luweero,36N 0.712023,E22/09398,Results,642,6.71,1.7,<0.2432,120,191,88.6,0.26116,18.39939,8.93293,0.02791,9.16832,0.05601,0.30606,0,0
+Wobulenzi community borehole,Wobulenzi,Kigobera,Wobulenzi T/C,Luweero,36N 0.714815,E22/09399,Results,303,5.81,16,5,36,89.8,39,0.04588,0.3316,0.79032,0.00225,0.03692,0.04618,0.17013,0,0
+NWSC Luweero Kiosk,Galuweero,Luweero,Luweero T/C,Luweero,36N 0.847233,E22/09420,Results,277,6.26,1.9,4,72,40,22.6,0.21946,26.19005,13.49775,0.00412,5.09561,0.08118,0.26532,0.17,0.16
+NWSC Luweero Final treated water,Lumu,Luweero,Luweero T/C,Luweero,36N 0.842237,E22/09421,Results,278,6.44,1.8,<0.2432,70,78.6,42.2,0.23203,26.36292,14.59248,0.00238,4.87447,0.06095,0.28844,0.74,0.65

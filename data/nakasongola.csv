@@ -1,0 +1,11 @@
+Source Name,Village,Parish,Sub county ,District,GPS Location,Lab Identifier Code,Parameter,Electrical Conductivity,pH ,Turbidity,Color (Apparent),Total Alkalinity ,Total hardness ,Calcium Hardardness ,Flouride,Nitrites ,Sulphate ,Ammonium-N ,Chloride ,Phosphates-P ,Nitrates-N 
+NWSC Kakooge PSP,Kalina zone,Kakooge,Kakooge T/C,Nakasongola,36N 1.052127,E22/09422,Results,420,7.35,1.8,0.2432,220,170.2,86,1.63313,0.00463,1.52247,0.03327,3.32715,0.17559,0.20578
+Katugo private water supply system,Katugo,Katugo,Katugo T/C,Nakasongola,36N 1.156917,E22/09423,Results,867,6.73,2,0.2432,135,328.2,146,0.57474,0.00441,60.28844,0.03644,157.8716,0.48381,6.17978
+Kyankanwa village borehole,Kyankanwa,Kyankanwa,Katugo T/C,Nakasongola,36N 1.198533,E22/09424,Results,498,6.8,1.9,0.2432,115,162.4,84.4,0.37793,0.00926,17.80692,0.09276,61.62422,0.33207,7.90487
+NWSC Nakasongola PSP,Wabigalo,Wabigalo,Wabigalo,Nakasongola,36N 1.251250,E22/09425,Results,141.5,6.77,2.4,21,40,38.2,18.8,0.34141,0.00247,0.55631,0.06189,11.53516,0.30125,0.9069
+NWSC Nakasongola Kiosk,Kansirye,Kiwongweire,Wabigalo,Nakasongola,36N 1.294542,E22/09426,Results,134.9,6.57,2.6,25,40,36.6,17.8,0.20278,0.00216,0.61037,0.08306,10.88303,0.15353,0.21933
+Nakasongola A village borehole,Nakasongola A,Central,Nakasongola T/C,Nakasongola,36N 1.308018,E22/09427,Results,334,6.56,1.8,3,120,98.6,48.4,0.31604,0.00362,1.02528,0.04876,31.06985,0.36045,6.71163
+NWSC Nakasongola PSP,Nakasongola A,Central,Nakasongola T/C,Nakasongola,36N 1.312917,E22/09428,Results,144.6,6.65,2.8,29,42,43.2,19,0.10825,0.0022,1.12525,0.08495,11.56837,0.16824,0.34537
+Nakasongola central police borehole,Nakasongola  ,Central,Nakasongola T/C,Nakasongola,36N 1.313042,E22/09429,Results,666,6.23,2.1,4,130,135.8,68.4,0.62627,0.00746,12.34891,0.08557,67.92879,0.1888,28.99053
+St. Kizito Sasira borehole,Ssasira,Ssasira,Wabinyonyi,Nakasongola,36N 1.333789,E22/09430,Results,264,6.01,1.8,0.2432,92,52.4,25.4,0.17837,0.00299,23.25799,0.03195,12.12451,0.15911,3.02935
+Rwenzori bottled water,,,,,,E22/09431,Results,132.5,5.64,1.9,0.2432,47,36.2,21.6,0.27426,0.00169,2.06465,0.15058,2.07753,0.43934,2.35143
